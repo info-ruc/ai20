@@ -5,3 +5,6 @@
 ## Class Slides
 #1 Intro [slide](https://info-ruc.github.io/ai20/intro.pdf) 
 | [swi-prolog](https://www.swi-prolog.org/)
+
+#1 Reasoning [slide](https://info-ruc.github.io/ai20/reasoning.pdf) 
+| [Source Code](https://info-ruc.github.io/ai20/reason.pl)
