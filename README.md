@@ -11,3 +11,5 @@
 
 #3 Searching-I [slide](https://info-ruc.github.io/ai20/search-I.pdf) 
 
+#4 Searching-II [slide](https://info-ruc.github.io/ai20/search-II.pdf) 
+
