@@ -14,3 +14,6 @@
 #4 Searching-II [slide](https://info-ruc.github.io/ai20/search-II.pdf) 
 
 #5 Machine Learning Intro [slide](https://info-ruc.github.io/ai20/mlintro.pdf) 
+
+#6 Classification [slide](https://info-ruc.github.io/ai20/classification.pdf) 
+
