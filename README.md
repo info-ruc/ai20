@@ -17,3 +17,5 @@
 
 #6 Classification [slide](https://info-ruc.github.io/ai20/classification.pdf) 
 
+#7 Linear Models [slide](https://info-ruc.github.io/ai20/lines.pdf) 
+
