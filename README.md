@@ -19,3 +19,5 @@
 
 #7 Linear Models [slide](https://info-ruc.github.io/ai20/lines.pdf) 
 
+#8 Trees and Forests [slide](https://info-ruc.github.io/ai20/trees.pdf) 
+
