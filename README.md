@@ -21,3 +21,6 @@
 
 #8 Trees and Forests [slide](https://info-ruc.github.io/ai20/trees.pdf) 
 
+#9 Dimension Reduction [slide](https://info-ruc.github.io/ai20/dimension.pdf) 
+
+
