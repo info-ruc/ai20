@@ -23,4 +23,6 @@
 
 #9 Dimension Reduction [slide](https://info-ruc.github.io/ai20/dimension.pdf) 
 
+#10 CNN [slide](https://info-ruc.github.io/ai20/cnn.pdf) 
+
 
