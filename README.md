@@ -25,4 +25,6 @@
 
 #10 CNN [slide](https://info-ruc.github.io/ai20/cnn.pdf) 
 
+#11 RNN [slide](https://info-ruc.github.io/ai20/rnn.pdf) 
+
 
