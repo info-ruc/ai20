@@ -27,4 +27,6 @@
 
 #11 RNN [slide](https://info-ruc.github.io/ai20/rnn.pdf) 
 
+#12 AutoEncoder [slide](https://info-ruc.github.io/ai20/ae.pdf) 
+
 
