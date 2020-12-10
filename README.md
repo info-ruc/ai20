@@ -29,4 +29,5 @@
 
 #12 AutoEncoder [slide](https://info-ruc.github.io/ai20/ae.pdf) 
 
+#13 Summary [slide](https://info-ruc.github.io/ai20/summary.pdf) 
 
